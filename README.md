@@ -10,11 +10,14 @@ This is an Unity project that reverse engineer the basic mechanisms of Animal-AI
 * Records each frame (RBG, mask, depth) in the `Asssets/StreamingAssets` folder.
 * Training using Unity ML agent.
 
-![alt text](ScreenShots/MainCamera_30.png).center[RGB Screenshot]
+RGB Screenshot:
+![alt text](ScreenShots/MainCamera_30.png)
 
-![alt text](ScreenShots/MaskCamera_30.png).center[Mask Screenshot]
+Mask Screenshot:
+![alt text](ScreenShots/MaskCamera_30.png)
 
-![alt text](ScreenShots/DepthCamera_30.png).center[Depth Screenshot]
+Depth Screenshot:
+![alt text](ScreenShots/DepthCamera_30.png)
 
 ## Installation
 
