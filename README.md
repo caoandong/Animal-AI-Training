@@ -38,5 +38,6 @@ Depth Screenshot:
     * Check the toggle for `Take Screen Shot`.
 
 Settings for the world manager and the player:
+
 ![alt text](ScreenShots/1.PNG)
 ![alt text](ScreenShots/0.PNG)
